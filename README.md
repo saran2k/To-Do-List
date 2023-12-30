@@ -16,7 +16,7 @@ This is a simple to-do-list webpage
 
 ## How to contribute <a name="how-to-contribute"></a>
 
-- Check [contributing.md file to contribute](https://github.com/saran2k/To-Do-List/CONTRIBUTING.md)
+- Check [contributing.md file to contribute](https://github.com/saran2k/To-Do-List/blob/main/CONTRIBUTING.md)
 - Star this repository.
 - Create an issue with the description of how you want to contribute to this project.
 - Wait to be assigned.
