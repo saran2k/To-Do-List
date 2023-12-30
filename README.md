@@ -2,7 +2,7 @@
 This is a simple to-do-list webpage
 
 ## Website Link-
- <a href="https://github.com/saran2k/To-Do-List">To-Do-List</a>
+ <a href="https://saran2k.github.io/To-Do-List/">To-Do-List</a>
 
  ## Table of Contents-
 - [How to contribute](#how-to-contribute)
