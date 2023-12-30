@@ -12,7 +12,7 @@ This is a simple to-do-list webpage
 - [Contributors](#contributors)
 
 
-# Are you excited to contribute under Hacktoberfest2022?😍
+# Are you excited to contribute to a change?
 
 ## How to contribute <a name="how-to-contribute"></a>
 
