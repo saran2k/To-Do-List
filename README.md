@@ -2,7 +2,7 @@
 This is a simple to-do-list webpage
 
 ## Website Link-
- <a href="https://avinash201199.github.io/To-Do-List/">To-Do-List</a>
+ <a href="(https://github.com/saran2k/To-Do-List)">To-Do-List</a>
 
  ## Table of Contents-
 - [How to contribute](#how-to-contribute)
@@ -16,7 +16,7 @@ This is a simple to-do-list webpage
 
 ## How to contribute <a name="how-to-contribute"></a>
 
-- Check [contributing.md file to contribute](https://github.com/avinash201199/To-Do-List/blob/main/CONTRIBUTING.md)
+- Check [contributing.md file to contribute](https://github.com/saran2k/To-Do-List/CONTRIBUTING.md)
 - Star this repository.
 - Create an issue with the description of how you want to contribute to this project.
 - Wait to be assigned.
@@ -26,7 +26,7 @@ This is a simple to-do-list webpage
 - Pull request should have a screenshot of the changes you have made.
 - Wait for review.
 
-For contributing guidelines and standards, visit [contributing.md](https://github.com/avinash201199/To-Do-List/blob/main/CONTRIBUTING.md)
+For contributing guidelines and standards, visit [contributing.md](https://github.com/saran2k/To-Do-List/CONTRIBUTING.md)
 
 ## 😎 Our Logo <a name = "logo"></a>
 <img src="./assets/images/logo.png" width=150px height=140px alt="logo">
@@ -40,19 +40,6 @@ For contributing guidelines and standards, visit [contributing.md](https://githu
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 For any concerns contact me here: - <br>
-[<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
+[<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/saran2k)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](www.linkedin.com/in/saran-shekar-290b112a5)
 <br>(Must Check My Github for more cool stuff !)<br>
-
-
-<h2>Project Contributors⭐</h2>
-<a name = "contributors"></a>
-<table align="center">
-<tr>
-<td>
-<a href="https://github.com/avinash201199/To-Do-List/graphs/contributors" align="center">
-  <img src="https://contrib.rocks/image?repo=avinash201199/To-Do-List" /> 
-</a>
-</td>
-</tr>
-</table>
 ### Thank you for your valuable contribution!
