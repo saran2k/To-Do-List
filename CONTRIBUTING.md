@@ -21,7 +21,7 @@ Pull requests are the best way to propose changes to the codebase (we use [Githu
 5. Ensure the test suite passes.
 6. Make sure your code lints.
 7. Issue that pull request!
-## Report bugs using Github's [issues](https://github.com/briandk/transcriptase-atom/issues)
+## Report bugs using Github's issue
 We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/saran2k/To-Do-List/issues/new); it's that easy!
 
 **Great Bug Reports** tend to have:
